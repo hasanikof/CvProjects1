@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\bin\Debug\OopAssesment2HasanFidan.cs.exe.config
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\bin\Debug\OopAssesment2HasanFidan.cs.exe
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\bin\Debug\OopAssesment2HasanFidan.cs.pdb
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.Form1.resources
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.Properties.Resources.resources
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.exe
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.pdb
+C:\Users\MSI\source\repos\OopAssesment2HasanFidan.cs\OopAssesment2HasanFidan.cs\obj\Debug\OopAssesment2HasanFidan.cs.Form2.resources
